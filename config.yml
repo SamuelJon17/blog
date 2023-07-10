@@ -1,0 +1,26 @@
+baseURL: 'http://samueljon17.github.io/blog'
+languageCode: 'en-us'
+title: Jon Samuel's Notes
+theme: PaperMod
+publishDir: "docs"
+
+params:
+  homeInfoParams:
+    Title: 'Welcome to my blog! 🫨'
+    Content: Hello! My name is Jon and I’m documenting my learning notes in this blog for all things machine learning, software engineering & data science.
+  socialIcons:
+    - name: github
+      url: "https://github.com/SamuelJon17"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/jon-samuel/"
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
