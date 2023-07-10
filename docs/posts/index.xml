@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://samueljon17.github.io/blog/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jul 2023 14:26:55 -0400</lastBuildDate><atom:link href="http://samueljon17.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example</title>
+      <link>http://samueljon17.github.io/blog/posts/example/</link>
+      <pubDate>Mon, 10 Jul 2023 14:26:55 -0400</pubDate>
+      
+      <guid>http://samueljon17.github.io/blog/posts/example/</guid>
+      <description>This is a new post</description>
+    </item>
+    
+  </channel>
+</rss>
